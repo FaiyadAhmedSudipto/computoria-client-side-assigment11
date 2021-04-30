@@ -6,7 +6,8 @@ This is a website for a Computer servicing company called Computoria.
 
 ## Important Links & Resources
 **Server** Server deploied with Heroku. Visit these link:-- https://salty-stream-67621.herokuapp.com/
-Livesite deploied with Firebase, Visit these link:-- https://computoria-the-last-assignment.web.app/
+
+**Livesite** Livesite deploied with Firebase, Visit these link:-- https://computoria-the-last-assignment.web.app/
 
 
 ## The Pages-
