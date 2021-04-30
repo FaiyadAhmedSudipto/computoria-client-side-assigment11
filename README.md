@@ -16,6 +16,7 @@ Livesite Github link:-- https://github.com/Porgramming-Hero-web-course/complete-
 
 ## Resources
 
+WE will update it soon!! 
 
 ## The Pages-
             <Home/>
